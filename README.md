@@ -24,7 +24,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Create Vitual Machine 1 usuing windows
 - Create Virtual Machine 2 using Ubuntu
 - Open Remote Deskstop and login using public IP address
-- Open Wireshark and Powershell
+- Download and Open Wireshark and Powershell
 
 <h2>Actions and Observations</h2>
 
